@@ -55,5 +55,5 @@ void multiply(double a, double b) {
 }
 
 void divide(double a, double b) {
-    cout << "Result: " << (a / b) << endl;
+    cout << "Result:" << (a / b) << endl;
 }
